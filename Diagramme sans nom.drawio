@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="hNV-avtjevOCK7KQFjod">
-    <mxGraphModel dx="1753" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,13 +285,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K-Zy1JCWCKmJ9QD9tVM-80" connectable="0" parent="_K-Zy1JCWCKmJ9QD9tVM-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Agent Linux + Check" vertex="1">
+        <mxCell id="_K-Zy1JCWCKmJ9QD9tVM-80" connectable="0" parent="_K-Zy1JCWCKmJ9QD9tVM-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Agent Linux + Check HTTP/HTTPS" vertex="1">
           <mxGeometry relative="1" x="-0.2737" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-15" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_K-Zy1JCWCKmJ9QD9tVM-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#b46504;" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;SRV-erp_web&lt;/font&gt;&lt;/h2&gt;" vertex="1">
-          <mxGeometry height="20" width="200" x="1280" y="600" as="geometry" />
+          <mxGeometry height="20" width="130" x="1350" y="600" as="geometry" />
         </mxCell>
         <mxCell id="_K-Zy1JCWCKmJ9QD9tVM-91" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Légende" vertex="1">
           <mxGeometry height="120" width="240" x="161" y="840" as="geometry" />
