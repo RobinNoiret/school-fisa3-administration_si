@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="HYeO8M0U2-72-nldINq5">
-    <mxGraphModel dx="762" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DD9uFq8YtccUA2xC2IwC-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" value="ESXi&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="220" width="360" x="240" y="230" as="geometry" />
+          <mxGeometry height="220" width="500" x="170" y="230" as="geometry" />
         </mxCell>
         <mxCell id="DD9uFq8YtccUA2xC2IwC-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" value="Front ERP" vertex="1">
           <mxGeometry height="180" width="60" x="250" y="260" as="geometry" />
@@ -113,7 +113,7 @@
         <mxCell id="DD9uFq8YtccUA2xC2IwC-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zabbix proxy" vertex="1">
           <mxGeometry height="40" width="120" x="362" y="930" as="geometry" />
         </mxCell>
-        <mxCell id="DD9uFq8YtccUA2xC2IwC-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PfSense" vertex="1">
+        <mxCell id="DD9uFq8YtccUA2xC2IwC-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Veeam" vertex="1">
           <mxGeometry height="40" width="120" x="362" y="980" as="geometry" />
         </mxCell>
         <mxCell id="DD9uFq8YtccUA2xC2IwC-48" edge="1" parent="1" source="DD9uFq8YtccUA2xC2IwC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -185,6 +185,12 @@
         </mxCell>
         <mxCell id="DD9uFq8YtccUA2xC2IwC-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=1;" value="Springfield" vertex="1">
           <mxGeometry height="30" width="60" x="290" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="iw06AB6RaxiFsZbH4rLx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" value="Linux Vitrine" vertex="1">
+          <mxGeometry height="180" width="60" x="602" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iw06AB6RaxiFsZbH4rLx-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" value="Grafana Loki" vertex="1">
+          <mxGeometry height="180" width="60" x="180" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
