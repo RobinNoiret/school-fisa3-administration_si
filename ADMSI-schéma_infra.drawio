@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="2EByZMwbCXj8bR8pH5UO">
-    <mxGraphModel dx="1601" dy="1000" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,13 +59,12 @@
         <mxCell id="1ky_r975OP0GZXVOg9Z7-5" edge="1" parent="1" source="RZV83vOlNFFEBqx11iOE-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" target="1ky_r975OP0GZXVOg9Z7-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="409" y="396" />
-              <mxPoint x="238" y="396" />
+              <mxPoint x="401" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1ky_r975OP0GZXVOg9Z7-4" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.server;network2IconW=1.0001;network2IconH=0.5812;" value="Back end ERP &#xa;+BDD" vertex="1">
-          <mxGeometry height="29.060000000000002" width="50.005" x="214" y="384" as="geometry" />
+          <mxGeometry height="29.060000000000002" width="50.005" x="214" y="426" as="geometry" />
         </mxCell>
         <mxCell id="1ky_r975OP0GZXVOg9Z7-2" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.server;network2IconW=1.0001;network2IconH=0.5812;" value="Back end ERP &#xa;+BDD" vertex="1">
           <mxGeometry height="29.060000000000002" width="50.005" x="564" y="431" as="geometry" />
@@ -129,6 +128,12 @@
         </mxCell>
         <mxCell id="Eo1ZVXooGtZC3-0UG_C4-12" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.server;network2IconW=1.0001;network2IconH=0.5812;" value="Serveur Labo" vertex="1">
           <mxGeometry height="29.060000000000002" width="50.005" x="1289" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv6lXQDIBGprnHV1zyxN-1" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.server;network2IconW=1.0001;network2IconH=0.5812;" value="Site vitrine" vertex="1">
+          <mxGeometry height="29.060000000000002" width="50.005" x="214" y="336" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv6lXQDIBGprnHV1zyxN-2" edge="1" parent="1" source="Tv6lXQDIBGprnHV1zyxN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.278;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;" target="RZV83vOlNFFEBqx11iOE-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
