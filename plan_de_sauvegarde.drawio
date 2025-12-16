@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="npHJnl2jSi9FdfAORwWp">
-    <mxGraphModel>
+    <mxGraphModel dx="983" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="160" x="120" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Critique" vertex="1">
+          <mxGeometry height="60" width="140" x="130" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-10" edge="1" parent="1" source="r_43MAraYKmjFoEl6Kyc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="r_43MAraYKmjFoEl6Kyc-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="450" />
+              <mxPoint x="320" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Important" vertex="1">
+          <mxGeometry height="60" width="140" x="130" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-13" edge="1" parent="1" source="r_43MAraYKmjFoEl6Kyc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="r_43MAraYKmjFoEl6Kyc-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="520" />
+              <mxPoint x="360" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Moins critique" vertex="1">
+          <mxGeometry height="60" width="140" x="130" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nas Atlantis" vertex="1">
+          <mxGeometry height="30" width="160" x="120" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-14" edge="1" parent="1" source="r_43MAraYKmjFoEl6Kyc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sauvegarde" vertex="1">
+          <mxGeometry height="80" width="160" x="390" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nas Springfield" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-12" edge="1" parent="1" source="r_43MAraYKmjFoEl6Kyc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" target="r_43MAraYKmjFoEl6Kyc-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-15" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.globe;network2IconW=1;network2IconH=1;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="630" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="r_43MAraYKmjFoEl6Kyc-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cloud&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="160" x="575" y="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
